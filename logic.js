@@ -1,4 +1,8 @@
 // ....Univesal declaration and others......
+import Deck from "./deck"
+
+const deck = new Deck()
+console.log(deck)
 // ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
